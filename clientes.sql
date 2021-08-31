@@ -6,5 +6,6 @@ create table clientes(
                          sexo varchar(1),
                          edad int,
                          direccion varchar(50)
+
 );
 select * from clientes;

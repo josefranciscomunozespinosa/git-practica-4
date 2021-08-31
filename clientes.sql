@@ -4,4 +4,5 @@ create table clientes(
                          apellidos varchar(50),
                          edad int,
                          direccion varchar(50)
+
 );
